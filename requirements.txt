@@ -1,0 +1,5 @@
+streamlit
+requests
+PIL
+os
+base64numpy
