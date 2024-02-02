@@ -1,5 +1,5 @@
 streamlit
 requests
-PIL
+pillow
 os
 base64numpy
